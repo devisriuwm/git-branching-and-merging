@@ -1,0 +1,3 @@
+promise is an asyn .
+call back is an asyn
+asyn await is an async
